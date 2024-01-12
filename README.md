@@ -1,2 +1,5 @@
-# docker-lamp-myspace-site
-docker-lamp-myspace-site
+# mySpace
+
+docker-compose up
+
+docker system prune -a
